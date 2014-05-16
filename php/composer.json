@@ -1,0 +1,11 @@
+{
+    "name": "mia/tektest-php",
+    "require": {
+        "phpunit/phpunit": "4.*"
+    },
+    "autoload": {
+    	"psr-0": {
+    		"TestTek": "src/"
+    	}
+    }
+}
